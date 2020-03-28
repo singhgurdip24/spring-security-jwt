@@ -1,6 +1,6 @@
 package com.codesingh.springsecurityjwt.util;
 
-import io.jsonwebtoken.Claims;
+import io.jsonwebtoken.*;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
